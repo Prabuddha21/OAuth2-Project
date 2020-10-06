@@ -3,6 +3,9 @@ This is the project made for Assignment 2 of Secure Software Development module 
 
 Name: Prabuddha Alahakoon
 
-User the bellow command to run the project.
+# Instructions 
 
-npm start
+1. Clone this project to your local environment
+2. Use the cmd or terminal in the project directory and execute bellow commands in order.
+    npm install 
+    npm start
